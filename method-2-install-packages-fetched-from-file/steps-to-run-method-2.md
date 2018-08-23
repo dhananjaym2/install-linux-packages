@@ -5,6 +5,6 @@
 1. Open Linux terminal.
 1. Switch to the directory/folder containing the file [install-packages-fetched-from-file.sh](https://github.com/dhananjaym2/install-linux-packages/blob/master/method-2-install-packages-fetched-from-file/install-packages-fetched-from-file.sh) in the Linux terminal using cd command.
 1. Make sure to provide the file having extension .sh with **executable permissions** before executing this program by following command: `chmod +x install-packages-fetched-from-file.sh`
-1. To execute this program use the following command from the current directory containing the file install-packages.sh: `sudo sh ./install-packages.sh`
+1. To execute this program use the following command from the current directory containing the file install-packages.sh: `sudo sh ./install-packages-fetched-from-file.sh`
 1. Enter the root password of your system when the prompt requests it.
 1. Wait for the process to complete.
